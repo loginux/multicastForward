@@ -1,0 +1,7 @@
+#pragma once
+
+// 由 CMake 根据 git 状态生成，不要手改
+#define MCFW_VERSION        "1.00"
+#define MCFW_GIT_COMMIT     "@MCFW_GIT_COMMIT@"
+#define MCFW_VERSION_FULL   "V1.00 (@MCFW_GIT_COMMIT@)"
+#define MCFW_VERSION_FULL_W L"V1.00 (@MCFW_GIT_COMMIT@)"

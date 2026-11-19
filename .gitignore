@@ -1,0 +1,19 @@
+# 构建与打包产物
+/build/
+/deploy/
+cmake-build-*/
+out/
+
+# 运行期文件
+*.log
+update-result.txt
+*.new
+*.old
+
+# 工具与编辑器
+.workbuddy/
+.vs/
+.vscode/
+*.user
+*.suo
+*.VC.db
